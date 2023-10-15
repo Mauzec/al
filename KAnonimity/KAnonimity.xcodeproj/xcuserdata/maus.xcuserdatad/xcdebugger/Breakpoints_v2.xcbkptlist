@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "64162EBC-21A9-4891-929B-F57F39156C10"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F021F66E-82A9-4C85-882A-CA4B261820A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA9C2646-51DA-41E3-9D60-1303E759C825"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62926262-BFAD-4592-AD61-D9FF85963B0E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65B79FFF-86D1-4C02-939F-7B545D203852"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "146A10B9-0102-461F-833A-4EFDC51BDF96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/Kanon.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "kValues()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "146A10B9-0102-461F-833A-4EFDC51BDF96 - e7f0a1ddffeef961"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KAnonimity.Kanonimity.kValues() -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "KAnonimity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maus/Documents/Xcode/KAnonimity/KAnonimity/Kanon.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "2692">
+               </Location>
+               <Location
+                  uuid = "146A10B9-0102-461F-833A-4EFDC51BDF96 - e7f0a1ddffee0541"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KAnonimity.Kanonimity.kValues() -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "KAnonimity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maus/Documents/Xcode/KAnonimity/KAnonimity/Kanon.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "4976">
+               </Location>
+               <Location
+                  uuid = "146A10B9-0102-461F-833A-4EFDC51BDF96 - e7f0a1ddffee0541"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KAnonimity.Kanonimity.kValues() -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "KAnonimity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maus/Documents/Xcode/KAnonimity/KAnonimity/Kanon.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "7692">
+               </Location>
+               <Location
+                  uuid = "146A10B9-0102-461F-833A-4EFDC51BDF96 - e7f0a1ddffee0541"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KAnonimity.Kanonimity.kValues() -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "KAnonimity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maus/Documents/Xcode/KAnonimity/KAnonimity/Kanon.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "2312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "902D4C44-24BD-4F29-A750-B440FAD64DA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/Kanon.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "anonimize()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17476766-201C-4F3F-BBE2-6FDB8979B1F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/MainView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "readData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17476766-201C-4F3F-BBE2-6FDB8979B1F6 - b92ca494c6060633"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KAnonimity.CSVFileManager.readData() -&gt; ()"
+                  moduleName = "KAnonimity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maus/Documents/Xcode/KAnonimity/KAnonimity/MainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "17476766-201C-4F3F-BBE2-6FDB8979B1F6 - b92ca494c6060633"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KAnonimity.CSVFileManager.readData() -&gt; ()"
+                  moduleName = "KAnonimity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maus/Documents/Xcode/KAnonimity/KAnonimity/MainView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90E1A833-110F-42F0-A8B5-D09FC2C4255B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/Kanon.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "253"
+            endingLineNumber = "253"
+            landmarkName = "methodPseudonameAddress()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE117D85-2C88-4BA1-8C2A-4BCC5F9B5C76"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/Kanon.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "310"
+            endingLineNumber = "310"
+            landmarkName = "methodMask(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9ADA4B22-0525-4CE5-A49D-CA27836F544C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/Kanon.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "changeStreet(data:index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9ADA4B22-0525-4CE5-A49D-CA27836F544C - 2068939ad71cffbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KAnonimity.Kanonimity.findStreet(data: inout Swift.Dictionary&lt;Swift.String, Swift.Array&lt;Swift.String&gt;&gt;, index: Swift.Int) -&gt; ()"
+                  moduleName = "KAnonimity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maus/Documents/Xcode/KAnonimity/KAnonimity/Kanon.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "253"
+                  endingLineNumber = "253"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+               <Location
+                  uuid = "9ADA4B22-0525-4CE5-A49D-CA27836F544C - 2068939ad71cffbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KAnonimity.Kanonimity.findStreet(data: inout Swift.Dictionary&lt;Swift.String, Swift.Array&lt;Swift.String&gt;&gt;, index: Swift.Int) -&gt; ()"
+                  moduleName = "KAnonimity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maus/Documents/Xcode/KAnonimity/KAnonimity/Kanon.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "253"
+                  endingLineNumber = "253"
+                  offsetFromSymbolStart = "872">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1EC16DB-02EC-491A-8B80-5C686CEF4B59"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/Kanon.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "methodPseudonameAddress()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "485D263D-E856-46C6-A760-98DB853DBBD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KAnonimity/Kanon.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "calck(gropsCount:idents:minValue:index:writing:isCountUnique:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
