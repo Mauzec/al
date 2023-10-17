@@ -40,7 +40,8 @@ class Kanonimity {
                 gropsCount[row] = count + 1
             } else { gropsCount[row] = 1}
         }
-        for (_, count) in gropsCount {
+        for (value, count) in gropsCount {
+            if isCountUnique { print(value) }
             if count < minValue[index] {
                 minValue[index] = count
             }
